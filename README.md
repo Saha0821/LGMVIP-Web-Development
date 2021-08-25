@@ -1,2 +1,4 @@
 # LGMVIP-Web-Development
-I have done 2 tasks as a intern in Web Development at letsgrowmore
+This is my first task  as a intern in Web Development at letsgrowmore.
+I have created a single page website named as zippy.
+Languages used: HTML,CSS,JS
